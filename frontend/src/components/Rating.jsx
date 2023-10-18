@@ -1,9 +1,4 @@
-import {
-  FaStar,
-  FaStarHalfAlt,
-  FaRegStar,
-  FaAmericanSignLanguageInterpreting,
-} from "react-icons/fa"
+import { FaStar, FaStarHalfAlt, FaRegStar } from "react-icons/fa"
 
 const Rating = ({ value, text }) => {
   return (
